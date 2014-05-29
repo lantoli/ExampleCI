@@ -1,0 +1,3 @@
+*.suo
+MyLibrary.UnitTests/obj/
+MyLibrary/obj/
